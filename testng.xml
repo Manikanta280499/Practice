@@ -4,9 +4,8 @@
     <packages>
        <package name="testngFiles" />
         <package name="packTwo"/>
-       <package name="packTwo"/>
-       
-       
+
+       asdfa
     </packages>
     
     </test>
