@@ -4,6 +4,7 @@
     <packages>
        <package name="testngFiles" />
         <package name="packTwo"/>
+       <package name="packTwo"/>
        
        
     </packages>
